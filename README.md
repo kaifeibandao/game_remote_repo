@@ -1,3 +1,10 @@
+
+# game_remote_repo
+this is a test for game
+this is kaifei!
+
+thanks!
+
 # game_remote_repo
 this is a test for game
 
