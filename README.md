@@ -1,9 +1,15 @@
-# game_remote_repo
-this is a test for game
 
+
+this is a test for game
 this is kaifei!
 
 thanks!
 
+this is a test for game
 
-1222222
+this is  not kaifei!
+
+ok, I agree your update!
+
+go ahead!
+123456
