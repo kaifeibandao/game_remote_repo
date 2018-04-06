@@ -2,3 +2,6 @@
 this is a test for game
 
 this is kaifei!
+
+thanks!
+
