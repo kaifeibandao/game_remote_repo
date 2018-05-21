@@ -1,8 +1,10 @@
-package com.kf.game.controlller;
+package com.kf.game.api;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.servlet.Servlet;
+import javax.servlet.http.HttpServlet;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

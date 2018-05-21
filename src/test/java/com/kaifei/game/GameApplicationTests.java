@@ -62,5 +62,9 @@ public class GameApplicationTests {
 		}
 	}
 	
+	@Test
+	public void contextLoads1() {
+		
+	}
 
 }
